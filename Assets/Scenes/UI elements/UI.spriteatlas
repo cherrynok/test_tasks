@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 9571ba197291244fcacbbabd7c09bdef, type: 3}
+    - {fileID: 2800000, guid: 447f6ac51666d4f2f895fb9db6cfe9f3, type: 3}
+    - {fileID: 2800000, guid: 7f065e8ccf67841dc91c21b29af0ef90, type: 3}
+    - {fileID: 2800000, guid: e70c364074fed4ab7b90509b07a1c751, type: 3}
+    - {fileID: 2800000, guid: 53258a7ed41174e0eb0ae1fc46375f64, type: 3}
+    - {fileID: 2800000, guid: 2ff07bcdf67464f67bdb5090895abbd8, type: 3}
+    - {fileID: 2800000, guid: 683109de4503248a990d841fe2a022d8, type: 3}
+    - {fileID: 2800000, guid: 909b87f3c7d764f359357458e07f8e7a, type: 3}
+    - {fileID: 2800000, guid: a9e21827d9c7547b285257ff8f37507c, type: 3}
+    - {fileID: 2800000, guid: e93e188fab1e143bead3777a201522e4, type: 3}
+    - {fileID: 2800000, guid: 69b132a13d7ed4112adfadb950fa0709, type: 3}
+    - {fileID: 2800000, guid: 5a06ae366520f48dc9d476e320a7b815, type: 3}
+    - {fileID: 2800000, guid: 92d46ae23d9e2495a9611e0b9dd8405b, type: 3}
+    - {fileID: 2800000, guid: 525c091c830554988ab1f4bd49d27b6d, type: 3}
+    - {fileID: 2800000, guid: 8fc2a07345bd740f59f71926ca7bb576, type: 3}
+    - {fileID: 2800000, guid: 52658a1a1209f4d8aaf3a91c53a34f77, type: 3}
+    - {fileID: 2800000, guid: 55a939e7a0d02408da927f7902bc0552, type: 3}
+    - {fileID: 2800000, guid: 41f952b964ea54b8fa769b1c8515339f, type: 3}
+    - {fileID: 2800000, guid: 195f05d5efd1d425a8083928c110df65, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e70c364074fed4ab7b90509b07a1c751, type: 3}
+  - {fileID: 21300000, guid: 69b132a13d7ed4112adfadb950fa0709, type: 3}
+  - {fileID: 21300000, guid: 92d46ae23d9e2495a9611e0b9dd8405b, type: 3}
+  - {fileID: 21300000, guid: 8fc2a07345bd740f59f71926ca7bb576, type: 3}
+  - {fileID: 21300000, guid: 909b87f3c7d764f359357458e07f8e7a, type: 3}
+  - {fileID: 21300000, guid: 447f6ac51666d4f2f895fb9db6cfe9f3, type: 3}
+  - {fileID: 21300000, guid: 195f05d5efd1d425a8083928c110df65, type: 3}
+  - {fileID: 21300000, guid: 5a06ae366520f48dc9d476e320a7b815, type: 3}
+  - {fileID: 21300000, guid: a9e21827d9c7547b285257ff8f37507c, type: 3}
+  - {fileID: 21300000, guid: 55a939e7a0d02408da927f7902bc0552, type: 3}
+  - {fileID: 21300000, guid: 9571ba197291244fcacbbabd7c09bdef, type: 3}
+  - {fileID: 21300000, guid: 41f952b964ea54b8fa769b1c8515339f, type: 3}
+  - {fileID: 21300000, guid: 52658a1a1209f4d8aaf3a91c53a34f77, type: 3}
+  - {fileID: 21300000, guid: 525c091c830554988ab1f4bd49d27b6d, type: 3}
+  - {fileID: 21300000, guid: 7f065e8ccf67841dc91c21b29af0ef90, type: 3}
+  - {fileID: 21300000, guid: 2ff07bcdf67464f67bdb5090895abbd8, type: 3}
+  - {fileID: 21300000, guid: 53258a7ed41174e0eb0ae1fc46375f64, type: 3}
+  - {fileID: 21300000, guid: 683109de4503248a990d841fe2a022d8, type: 3}
+  - {fileID: 21300000, guid: e93e188fab1e143bead3777a201522e4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - btn_close
+  - ico_lock_line
+  - rock
+  - weapon_1
+  - health_min
+  - btn_ch1
+  - check_bg
+  - ico_progr
+  - ico_arrow
+  - 2px
+  - btn_slide
+  - check
+  - wood
+  - spirt
+  - btn_ch2
+  - can
+  - barry
+  - health_big
+  - ico_lock
+  m_RenderDataMap: {}
+  m_Tag: UI
+  m_IsVariant: 0
